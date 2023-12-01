@@ -5,8 +5,8 @@ Hi, I am Nasim Ahmed. I am sharing my experience in teaching and industries, int
 You are welcome to go ahead and navigate my profile.
 
 *	[Online CV][2]
-	*	[pdf][3]
-	*	[doc][4]
+	* [pdf][3]
+	* [doc][4]
 *  	Projects
 	*  Official Projects
       	*  [Push Notification Engine (Platform: Node.js)][5]
@@ -31,9 +31,9 @@ You are welcome to go ahead and navigate my profile.
 *  	[Links to my lyrics and musical composition][19]
 
 [1]:	https://uttarauniversity.edu.bd/
-[2]:		
-[3]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia_pdf .pdf
+[3]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia_pdf.pdf
 [4]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia.docx
+[2]:	
 [5]:
 [6]:
 [7]:
