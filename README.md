@@ -27,7 +27,7 @@ You are welcome to go ahead and navigate my profile.
 *  [Links to my fiction and non-fiction][18]
 *  [Links to my lyrics and musical composition][19]
 
-[1] https://uttarauniversity.edu.bd/
+[1]: https://uttarauniversity.edu.bd/
 [2]
 [3]
 [4]
