@@ -11,6 +11,7 @@ You are welcome to go ahead and navigate my profile.
       *  [Bulk SMS Sender API for various services (e-Courier, Commercial Banks) (Platform: C, PHP, Java Script)][6]
   *  Academic Projects
       *  [Library for Compiler Designing][7]
+*  [Research][20]
 *  Programming Problem Solution List
   *  [UVA][8]
   *  [LightOJ][9]
@@ -28,21 +29,22 @@ You are welcome to go ahead and navigate my profile.
 *  [Links to my lyrics and musical composition][19]
 
 [1]: https://uttarauniversity.edu.bd/
-[2]
-[3]
-[4]
-[5]
-[6]
-[7]
-[8]
-[9]
-[10]
-[11]
-[12]
-[13]
-[14]
-[15]
-[16]
-[17]
-[18]
-[19]
+[2]:
+[3]:
+[4]:
+[5]:
+[6]:
+[7]:
+[8]:
+[9]:
+[10]:
+[11]:
+[12]:
+[13]:
+[14]:
+[15]:
+[16]:
+[17]:
+[18]:
+[19]:
+[20]:
