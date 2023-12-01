@@ -4,33 +4,33 @@ Hi, I am Nasim Ahmed. I am sharing my experience in teaching and industries, int
 
 You are welcome to go ahead and navigate my profile.
 
-*  [Online CV][2] ([pdf][3], [doc][4])
-*  Projects
-  *  Official Projects
-      *  [Push Notification Engine (Platform: Node.js)][5]
-      *  [Bulk SMS Sender API for various services (e-Courier, Commercial Banks) (Platform: C, PHP, Java Script)][6]
-  *  Academic Projects
-      *  [Library for Compiler Designing][7]
-*  [Research][20]
-*  Programming Problem Solution List
-  *  [UVA][8]
-  *  [LightOJ][9]
-  *  [Codeforces][10]
-*  Academic Notes
-  *  [Notes on Object-Oriented Programming][11]
-  *  [Commentary on Data Structures and Algorithms][12]
-  *  [Complete list][13]
-*  Translation Project
-  *  [Persian Love- sixty-nine stanzas by Omar Khayyam, adapted, altered and otherwise rearranged for musical accompaniment by Len Bracken][14]
-  *  [Twenty Love Poems and a Song of Despair by Pablo Neruda][15]
-  *  [The Blood Telegram][16]
-  *  [Complete list][17]
-*  [Links to my fiction and non-fiction][18]
-*  [Links to my lyrics and musical composition][19]
+*	[Online CV][2] ([pdf][3], [doc][4])
+*  	Projects
+	*  Official Projects
+      	*  [Push Notification Engine (Platform: Node.js)][5]
+      	*  [Bulk SMS Sender API for various services (e-Courier, Commercial Banks) (Platform: C, PHP, Java Script)][6]
+  	*  Academic Projects
+      	*  [Library for Compiler Designing][7]
+*  	[Research][20]
+*  	Programming Problem Solution List
+  	*  [UVA][8]
+  	*  [LightOJ][9]
+  	*  [Codeforces][10]
+*  	Academic Notes
+  	*  [Notes on Object-Oriented Programming][11]
+  	*  [Commentary on Data Structures and Algorithms][12]
+  	*  [Complete list][13]
+*  	Translation Project
+  	*  [Persian Love- sixty-nine stanzas by Omar Khayyam, adapted, altered and otherwise rearranged for musical accompaniment by Len Bracken][14]
+  	*  [Twenty Love Poems and a Song of Despair by Pablo Neruda][15]
+  	*  [The Blood Telegram][16]
+  	*  [Complete list][17]
+*  	[Links to my fiction and non-fiction][18]
+*  	[Links to my lyrics and musical composition][19]
 
-[1]: https://uttarauniversity.edu.bd/
-[2]:
-[3]:
+[1]:	https://uttarauniversity.edu.bd/
+[2]:	
+[3]:	
 [4]:
 [5]:
 [6]:
