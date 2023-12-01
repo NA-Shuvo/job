@@ -32,7 +32,7 @@ You are welcome to go ahead and navigate my profile.
 
 [1]:	https://uttarauniversity.edu.bd/
 [2]:		
-[3]:	
+[3]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia_pdf .pdf
 [4]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia.docx
 [5]:
 [6]:
