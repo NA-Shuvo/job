@@ -29,7 +29,7 @@ You are welcome to go ahead and navigate my profile.
 *  	[Links to my lyrics and musical composition][19]
 
 [1]:	https://uttarauniversity.edu.bd/
-[2]:	
+[2]:	https://github.com/NA-Shuvo/job/blob/main/CVs/CV_Academia.docx	
 [3]:	
 [4]:
 [5]:
