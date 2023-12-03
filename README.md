@@ -14,10 +14,7 @@ You are welcome to go ahead and navigate my profile.
   	*  Academic Projects
       	*  [Library for Compiler Designing][7]
 *  	[Research][20]
-*  	Programming Problem Solution List
-  	*  [UVA][8]
-  	*  [LightOJ][9]
-  	*  [Codeforces][10]
+*  	[Programming Problem Solution List][2]
 *  	Academic Notes
   	*  [Notes on Object-Oriented Programming][11]
   	*  [Commentary on Data Structures and Algorithms][12]
@@ -36,7 +33,7 @@ You are welcome to go ahead and navigate my profile.
 [5]:	https://github.com/NA-Shuvo/push_notification_engine/blob/main/README.md
 [7]:	https://github.com/NA-Shuvo/CD_testing
 [11]:	https://github.com/NA-Shuvo/OOP/blob/main/OOP.md
-[2]:	
+[2]:	https://github.com/NA-Shuvo/accepted/blob/main/README.md	
 [6]:
 [8]:
 [9]:
